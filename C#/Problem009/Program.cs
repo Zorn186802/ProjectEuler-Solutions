@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace Problem009
 {
     class Program
     {
@@ -8,7 +8,6 @@ namespace ConsoleApp1
         {
             int result = 1000;
             int cpowed = 0;
-
 
             for (int a = 1; ; a++)
             {
@@ -27,8 +26,6 @@ namespace ConsoleApp1
                     }
                 }
             }
-
-            Console.WriteLine("Hello World!");
         }
     }
 }
